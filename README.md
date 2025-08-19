@@ -20,7 +20,7 @@ The clone AirBnB project as a learning requirement for the ALX ProDev back-end p
 - UI/UX designer: UI designer devises intuitive, easy-to-use, and eye-pleasing interfaces for a product, while the UX part stands for thinking out an entire journey of a user’s interaction with a product.
 - Software architect: Expert-level software engineer who makes executive software design decisions on behalf of an app development team.
 
-## Tech Stack
+## Technology Stack
 - Django: A high-level Python web framework used for building the RESTful API.
 - Django REST Framework: Provides tools for creating and managing RESTful APIs.
 - PostgreSQL: A powerful relational database used for data storage.
