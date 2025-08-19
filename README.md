@@ -46,7 +46,7 @@ The application relies on a relational database to manage users, property listin
 - A **Review** belongs to one **User** (the reviewer) and one **Property**.  
 - A **Payment** is tied to a single **Booking**.
 
-## Features Overview
+## Feature Breakdown
 1. **User Management**
  This feature allows users to register, log in, and manage their profiles securely. It ensures proper authentication and role distinction between hosts (who list properties) and guests (who make bookings), forming the foundation of the application.
 
