@@ -108,5 +108,6 @@ Continuous Integration (CI) and Continuous Deployment/Delivery (CD) are practice
 
 - GitHub Actions – Automates workflows for testing, building, and deploying the application.
 - Docker – Standardizes the application environment, ensuring consistency across development, testing, and production.
-- Heroku / AWS / DigitalOcean – Hosting platforms for deploying the project.
-- Jest / Pytest / Mocha – Testing frameworks to verify code before deployment.
+- GitHub Actions – Automates testing, building, and deployment workflows for the Django/DRF application.
+- Celery + Redis – Supports background task execution in the pipeline, such as sending notifications or processing jobs.
+- PostgreSQL (with migrations) – Integrated into the pipeline to manage schema updates automatically.
